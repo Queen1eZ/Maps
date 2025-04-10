@@ -8,6 +8,6 @@ For this project, I will be implementing Java’s Map Interface using different 
 
 After completing the project, I will be able to:
 
-Build a data structure by delegating to other data structures.
-Review the iterator design pattern.
+Build a data structure by delegating to other data structures.  
+Review the iterator design pattern.  
 Practice choosing invariants to ease implementation.
